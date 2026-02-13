@@ -1,0 +1,58 @@
+title: "Eder Mateus Gonçalves"
+subtitle: "Organizational Multi-Agent Systems • LLM-Augmented Distributed AI • Digital Twins • Translational AI"
+name: "Eder Mateus Gonçalves"
+description: "Research program bridging collective intelligence theory, LLM-augmented distributed architectures, and AI-driven Digital Twins for Industry 4.0/5.0, with translational systems in industry and health-tech."
+url: ""  # set to https://<your-username>.github.io after publishing
+baseurl: ""  # leave empty for user sites
+repository: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+locale: "en-US"
+timezone: "America/Sao_Paulo"
+
+author:
+  name: "Eder Mateus Gonçalves"
+  avatar: "/assets/images/avatar.png" # optional: replace with your photo file
+  bio: "Director, Center for Computational Sciences (C3) — FURG. Research on Organizational MAS, LLM-augmented distributed intelligence, and AI-driven Digital Twins for adaptive production systems."
+  location: "Rio Grande, Brazil"
+  links:
+    - label: "Lattes"
+      icon: "fas fa-id-card"
+      url: "https://lattes.cnpq.br/8560050240967369"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=iNuF4LMAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-9159-2264"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Eder-Mateus-Goncalves"
+    - label: "SciProfiles"
+      icon: "fas fa-user"
+      url: "https://sciprofiles.com/profile/edergoncalves"
+
+minimal_mistakes_skin: "default"
+search: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      toc_sticky: true
+
+data_dir: "_data"
