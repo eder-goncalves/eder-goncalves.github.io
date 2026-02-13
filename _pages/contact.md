@@ -4,6 +4,7 @@ permalink: /contact/
 ---
 
 **Email:** edergoncalves@furg.br 
+
 **Affiliation:** Center for Computational Sciences (C3), Federal University of Rio Grande (FURG)  
 **Location:** Rio Grande, Brazil
 
