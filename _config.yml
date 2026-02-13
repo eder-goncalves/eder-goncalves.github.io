@@ -2,9 +2,10 @@ title: "Eder Mateus Gonçalves"
 subtitle: "Organizational Multi-Agent Systems • LLM-Augmented Distributed AI • Digital Twins • Translational AI"
 name: "Eder Mateus Gonçalves"
 description: "Research program bridging collective intelligence theory, LLM-augmented distributed architectures, and AI-driven Digital Twins for Industry 4.0/5.0, with translational systems in industry and health-tech."
-url: ""  # set to https://<your-username>.github.io after publishing
-baseurl: ""  # leave empty for user sites
-repository: ""
+url: "https://eder-goncalves.github.io"
+baseurl: ""
+repository: "eder-goncalves/eder-goncalves.github.io"
+
 
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
